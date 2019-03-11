@@ -129,10 +129,10 @@ module.exports = {
 ```
 {
 ...,
-"scripts": {
-.....,
-"start": "node index.js"
-},
+  "scripts": {
+    .....,
+    "start": "node index.js"
+  },
 
 }
 ```
