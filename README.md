@@ -123,3 +123,16 @@ module.exports = {
 };
 
 ```
+
+- package.json config
+
+```
+{
+...,
+"scripts": {
+.....,
+"start": "node index.js"
+},
+
+}
+```
