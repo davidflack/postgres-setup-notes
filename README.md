@@ -21,7 +21,7 @@ yarn add pg dotenv knex
 2. Create a .env file and Set-up your .env variables
 
 ```
-JWT_SECRET=there is no secret, it's all a lie
+JWT_SECRET=whatever you want your secret to be
 PORT=8000
 DATABASE_URL='postgres://hshwwvecwtcttu:824db3ab6ec36681ee1e8a06879dfa3ba73e9f0dabc2745e6fd06430a01626de@ec2-54-235-134-25.compute-1.amazonaws.com:5432/d4atmhj2jqlram
 '
